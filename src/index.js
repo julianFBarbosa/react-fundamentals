@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <h1 style={{ color: "red" }}>
-    Olá mundo!
+    Hello World
   </h1>,
   document.getElementById("root")
 );
